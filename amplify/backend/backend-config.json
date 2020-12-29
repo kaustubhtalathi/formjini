@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "formjini1c1f6899": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
